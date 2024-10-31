@@ -1,0 +1,3 @@
+[submodule "lib/MillerInc.GUI-Library"]
+	path = lib/MillerInc.GUI-Library/
+	url = https://github.com/Miller-Inc/MillerInc.GUI-Library.git
