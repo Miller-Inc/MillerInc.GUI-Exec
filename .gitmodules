@@ -1,3 +1,5 @@
-[submodule "lib/MillerInc.GUI-Library/"]
-	path = lib/MillerInc.GUI-Library/
+
+[submodule "libs/MillerInc.GUI-Library"]
+	path = libs/MillerInc.GUI-Library
 	url = https://github.com/Miller-Inc/MillerInc.GUI-Library.git
+	branch = master
