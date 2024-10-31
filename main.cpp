@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "lib/MillerInc.GUI-Library/include/GUI.h"
+#include "libs/MillerInc.GUI-Library/include/GUI.h"
 
 int main()
 {
