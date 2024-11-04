@@ -13,6 +13,9 @@ int main()
 
 #if defined WINDOWS
     window = new WindowsWindow(800, 600, 100, 100, new std::string("Windows Window"));
+
+    window->show();
+
 #elif defined LINUX || defined DEBUG
     window = new LinuxWindow(800, 600, 100, 100, new std::string("Linux Window"));
 #endif
